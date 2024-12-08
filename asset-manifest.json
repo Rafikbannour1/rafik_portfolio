@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rafik_portfolio/static/css/main.1b09f8c8.css",
-    "main.js": "/rafik_portfolio/static/js/main.98cb5688.js",
+    "main.css": "/rafik_portfolio/static/css/main.c3f4b3ae.css",
+    "main.js": "/rafik_portfolio/static/js/main.bb3a7c4b.js",
     "static/media/home2.jpg": "/rafik_portfolio/static/media/home2.7406147e6680381cf503.jpg",
-    "static/media/project-2.jpg": "/rafik_portfolio/static/media/project-2.0dfdb478a2db20f08cf8.jpg",
-    "static/media/project-5.jpg": "/rafik_portfolio/static/media/project-5.f6885d316197f5d72029.jpg",
-    "static/media/project-6.jpg": "/rafik_portfolio/static/media/project-6.f4df07761e8241c83a94.jpg",
-    "static/media/project-4.jpeg": "/rafik_portfolio/static/media/project-4.5bc2687cdb426a57c84c.jpeg",
-    "static/media/project-3.jpeg": "/rafik_portfolio/static/media/project-3.5ae83458f56a1d1d3163.jpeg",
-    "static/media/project-1.jpeg": "/rafik_portfolio/static/media/project-1.fa7bcd15ca2c6d433163.jpeg",
-    "static/media/steve-Cv.pdf": "/rafik_portfolio/static/media/steve-Cv.e83747cf513e0b21a7f1.pdf",
+    "static/media/project-2.png": "/rafik_portfolio/static/media/project-2.0b94dd1c2f89a56b2bbb.png",
+    "static/media/projet-3.jpg": "/rafik_portfolio/static/media/projet-3.f63f17c572f25b3a6923.jpg",
+    "static/media/rafik.pdf": "/rafik_portfolio/static/media/rafik.da76fc30eca960bde452.pdf",
+    "static/media/project-5.jpg": "/rafik_portfolio/static/media/project-5.d1bdf7ba1dbc55bc08df.jpg",
+    "static/media/project-6.jpg": "/rafik_portfolio/static/media/project-6.498041ee8233e8928455.jpg",
+    "static/media/project-1.jpg": "/rafik_portfolio/static/media/project-1.00fa3d5ed2e7d2c91245.jpg",
+    "static/media/project-4.jpg": "/rafik_portfolio/static/media/project-4.2340e74a3407ed98cdf4.jpg",
     "static/media/close.svg": "/rafik_portfolio/static/media/close.5bec4f69e1bbfff50fdfacd4eaff052a.svg",
     "index.html": "/rafik_portfolio/index.html",
-    "main.1b09f8c8.css.map": "/rafik_portfolio/static/css/main.1b09f8c8.css.map",
-    "main.98cb5688.js.map": "/rafik_portfolio/static/js/main.98cb5688.js.map"
+    "main.c3f4b3ae.css.map": "/rafik_portfolio/static/css/main.c3f4b3ae.css.map",
+    "main.bb3a7c4b.js.map": "/rafik_portfolio/static/js/main.bb3a7c4b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b09f8c8.css",
-    "static/js/main.98cb5688.js"
+    "static/css/main.c3f4b3ae.css",
+    "static/js/main.bb3a7c4b.js"
   ]
 }
